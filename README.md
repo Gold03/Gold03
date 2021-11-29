@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tife_dev
-- 👀 I’m interested in 
+- 👀 I’m interested in Web development and App development
 - 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on Web development works
 - 📫 You can reach me on 
