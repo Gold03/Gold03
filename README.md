@@ -5,7 +5,7 @@
 - 📫 You can reach me on 
 @ LinkedIn- https://www.linkedin.com/in/tife-dev
 @ stack overflow 
-@ EMAIL-  julietdeveloper@gmail.com
+@ EMAIL-  julietdeveloper03@gmail.com
 
 <!---
 Gold03/Gold03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
