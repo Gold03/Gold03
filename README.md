@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tife_dev
-- 👀 I’m interested in Web development and App development
-- 🌱 I’m currently learning App development
+- 👀 I’m interested in Web development and Software Engineering works
+- 🌱 I’m currently learning Software Egineering on ALXafrica
 - 💞️ I’m looking to collaborate on Web development works
 - 📫 You can reach me on 
 @ LinkedIn- https://www.linkedin.com/in/tife-dev
