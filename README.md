@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Web development works
 - 📫 You can reach me on 
 @ LinkedIn- https://www.linkedin.com/in/tife-dev
-@ stack overflow 
 @ EMAIL-  julietdeveloper03@gmail.com
 
 <!---
